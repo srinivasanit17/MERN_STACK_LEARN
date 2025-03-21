@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+h1.todo-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+}
+
+section.todo-section {
+    background-image: url('https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 380px;
+    height: 700px;
+}
+
+p.todo-intro {
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 0px 10px;
+}
+
+p.todo-btitle {
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+p.todo-content {
+    text-align: left;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+button.todo-buttom {
+    background-color: orange;
+    padding: 5px;text-align: 
+    center;margin: 0 auto;
+    width: 15%;
+    color: #ffffff;
+    display: block;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;}
+
+p.todo-skip {
+    text-align: center;
+    font-size: 16px;
+    text-decoration: underline;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
